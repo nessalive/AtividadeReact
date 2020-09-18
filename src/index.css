@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: rgb(255, 218, 230);
+}
+
+.titulo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.caixaimg {
+  display: flex;
+
+}
+
+.caixa {
+  display: flex;
+}
+
+.meio{
+  margin: 0 5px;
+}
+
+.tex {
+  margin: 0 5px;
+}
+.caixatext {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
